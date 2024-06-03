@@ -1,0 +1,21 @@
+name: pwn2020
+challenges:
+  - id: maga0
+    name: maga0
+    level: 3
+    
+  - id: maga1
+    name: maga1
+    level: 3
+
+  - id: maga2
+    name: maga2
+    level: 5
+
+  - id: maga3
+    name: maga3
+    level: 5
+
+  - id: maga4
+    name: maga4
+    level: 7
