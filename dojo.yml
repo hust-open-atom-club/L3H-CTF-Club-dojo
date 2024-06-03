@@ -6,3 +6,7 @@ type: archive
 
 award:
   emoji: l3h
+
+modules:
+  - id: pwn2020
+    icon: l3h
