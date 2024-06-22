@@ -1,1 +1,1 @@
-本题是`maga0`.
+ez stack exec.

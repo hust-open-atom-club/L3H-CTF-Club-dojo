@@ -10,3 +10,6 @@ award:
 modules:
   - id: pwn2020
     icon: l3h
+
+  - id: pwn2021
+    icon: l3h
