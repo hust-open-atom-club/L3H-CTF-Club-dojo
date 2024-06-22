@@ -1,1 +1,0 @@
-Just like the name `rop_register`.
