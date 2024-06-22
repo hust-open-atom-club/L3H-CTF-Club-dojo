@@ -1,13 +1,13 @@
 name: pwn2020
 challenges:
-  - id: learn_fastbin
-    name: learn_fastbin
+  - id: learn-fastbin
+    name: learn-fastbin
     level: 5
 
-  - id: learn_fastbin_G
-    name: learn_fastbin_G
+  - id: learn-fastbin-G
+    name: learn-fastbin-G
     level: 7
 
-  - id: rop_register
-    name: rop_register
+  - id: rop-register
+    name: rop-register
     level: 7
