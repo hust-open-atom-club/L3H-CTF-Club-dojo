@@ -4,8 +4,8 @@ challenges:
     name: learn-fastbin
     level: 5
 
-  - id: learn-fastbin-G
-    name: learn-fastbin-G
+  - id: learn-fastbin-g
+    name: learn-fastbin-g
     level: 7
 
   - id: rop-register
