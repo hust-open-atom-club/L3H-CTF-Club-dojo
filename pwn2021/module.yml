@@ -1,4 +1,4 @@
-name: pwn2020
+name: pwn2021
 challenges:
   - id: learn-fastbin
     name: learn-fastbin
